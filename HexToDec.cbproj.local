@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.255,C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c=D:\Projects\Programming\C\BDS\Console\Algorithms\HexToDec\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,D:\Projects\Programming\C\BDS\Console\Algorithms\HexToDec\HexToDec.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\HexToDec\HexToDec.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,D:\Projects\Programming\C\BDS\Console\Algorithms\HexToDec\File1.c=D:\Projects\Programming\C\BDS\Console\Algorithms\HexToDec\HexToDec.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.434,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Projects\Programming\C\BDS\Console\Algorithms\HexToDec\HexToDecPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\HexToDec\HexToDec.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
